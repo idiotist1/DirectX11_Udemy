@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project/Client/Client.vcxproj" Id="44db506c-87df-43bf-acb4-e5ffba8a3c96">
+    <BuildDependency Project="Project/Engine/Engine.vcxproj" />
+  </Project>
+  <Project Path="Project/Engine/Engine.vcxproj" Id="7f8ab7d9-e670-42a7-8a13-3bfb708a9fe7" />
+</Solution>

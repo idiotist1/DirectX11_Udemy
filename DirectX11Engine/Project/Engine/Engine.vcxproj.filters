@@ -8,8 +8,14 @@
     <Filter Include="Default">
       <UniqueIdentifier>{5a3d83b3-b78d-4587-8df5-6bd2b7ec18f8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="01. Engine">
+    <Filter Include="02. Engine">
       <UniqueIdentifier>{aaf0c2b4-b3ce-42ab-96fb-34f3d7558148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Header">
+      <UniqueIdentifier>{8766fb31-0ac5-406a-af3c-9cfb4a8c5d76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Device">
+      <UniqueIdentifier>{4c8e6170-9a15-4d04-90b9-b3358ee89a4e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -20,7 +26,13 @@
       <Filter>Default</Filter>
     </ClInclude>
     <ClInclude Include="CEngine.h">
-      <Filter>01. Engine</Filter>
+      <Filter>02. Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="CDevice.h">
+      <Filter>03. Device</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -31,7 +43,10 @@
       <Filter>Default</Filter>
     </ClCompile>
     <ClCompile Include="CEngine.cpp">
-      <Filter>01. Engine</Filter>
+      <Filter>02. Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="CDevice.cpp">
+      <Filter>03. Device</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

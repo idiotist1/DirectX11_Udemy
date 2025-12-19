@@ -12,4 +12,6 @@
 
 #include <Windows.h>
 
+#include "global.h"
+
 #endif //PCH_H

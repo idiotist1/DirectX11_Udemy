@@ -8,8 +8,12 @@
 class CEngine
 {
 private:
-	HWND m_hMainHwnd;
-	POINT m_Resolution;
+	HWND m_hMainHwnd = nullptr;
+	POINT m_Resolution = {};
+
+public:
+	int init(HWND _hWnd, POINT _Resolution);
+
 public:
 	static CEngine* GetInst()
 	{
@@ -19,49 +23,6 @@ public:
 
 private:
 	CEngine();
-	CEngine(const CEngine& _origin); //싱글톤이기 때문에 복사생성자도 막아준다.
+	// 삭제된 함수, 의도치 않은 함수 호출을 방지하는 역할
+	CEngine(const CEngine& _origin) = delete; //싱글톤이기 때문에 복사생성자도 막아준다.
 };
-
-// * 복사생성자를 안막았을 경우
-//class Test
-//{
-//	void TTT()
-//	{
-//		CEngine* pEngine = CEngine::GetInst();
-//		CEngine a = *pEngine; //복사생성자로 생성시킬 수 있다.(싱글톤이기 때문에 막아야한다)
-//		CEngine b = *pEngine;
-//		CEngine c = *pEngine;
-//		CEngine d = *pEngine; // 계속 만들 수 있다.
-//	}
-//};
-
-
-// * 싱글톤 첫번째
-//class CEngine
-//{
-//private:
-//	static CEngine* g_This;
-//private:
-//	HWND m_hMainWnd;
-//public:
-//	// 정적 멤버함수 : 객체가 없어도 호출 가능
-//	static CEngine* GetInst()
-//	{
-//		if (g_This == nullptr)
-//		{
-//			g_This = new CEngine();
-//		}
-//		return g_This;
-//	}
-//	
-//	static void Destroy() //Destroy를 까먹을 수 있다는 단점이 있다.
-//	{
-//		if (g_This != nullptr)
-//		{
-//			delete g_This;
-//			g_This = nullptr; // 삭제된 주소를 들고 있으므로 nullptr로 채워야 한다.
-//		}
-//	}
-//private:
-//	CEngine();
-//};

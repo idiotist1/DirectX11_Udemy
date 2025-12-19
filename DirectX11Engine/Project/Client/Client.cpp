@@ -52,6 +52,13 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     ShowWindow(hWnd, nCmdShow);
     UpdateWindow(hWnd);
 
+    // CEngine 객체 초기화
+    if (FAILED(CEngine::GetInst()->init(hWnd, POINT{1280, 768})))
+    {
+        MessageBox(nullptr, L"엔진 초기화 실패", L"엔진 초기화 실패", MB_OK);
+        return 0; //메인함수 종료
+    }
+
     // 단축키 테이블(리소스 뷰에 Accelerator)
     HACCEL hAccelTable = LoadAccelerators(hInstance, MAKEINTRESOURCE(IDC_CLIENT));
 
@@ -104,7 +111,7 @@ ATOM MyRegisterClass(HINSTANCE hInstance)
     wcex.hIcon          = LoadIcon(hInstance, MAKEINTRESOURCE(IDI_CLIENT));
     wcex.hCursor        = LoadCursor(nullptr, IDC_ARROW);
     wcex.hbrBackground  = (HBRUSH)(COLOR_WINDOW+1);
-    wcex.lpszMenuName   = MAKEINTRESOURCEW(IDC_CLIENT);
+    wcex.lpszMenuName   = nullptr; // 메뉴바를 없앤다.
     wcex.lpszClassName  = L"Test";
     wcex.hIconSm        = LoadIcon(wcex.hInstance, MAKEINTRESOURCE(IDI_SMALL));
 

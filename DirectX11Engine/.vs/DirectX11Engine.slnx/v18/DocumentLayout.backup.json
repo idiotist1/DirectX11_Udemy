@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44DB506C-87DF-43BF-ACB4-E5FFBA8A3C96}|Project\\Client\\Client.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44DB506C-87DF-43BF-ACB4-E5FFBA8A3C96}|Project\\Client\\Client.vcxproj|solutionrelative:Project\\Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\CDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CDevice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\CDevice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\CEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\CEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\CEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F8AB7D9-E670-42A7-8A13-3BFB708A9FE7}|Project\\Engine\\Engine.vcxproj|solutionrelative:Project\\Engine\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DB506C-87DF-43BF-ACB4-E5FFBA8A3C96}|Project\\Client\\Client.vcxproj|C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44DB506C-87DF-43BF-ACB4-E5FFBA8A3C96}|Project\\Client\\Client.vcxproj|solutionrelative:Project\\Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +42,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CDevice.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CDevice.cpp",
+              "RelativeDocumentMoniker": "Project\\Engine\\CDevice.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CDevice.cpp",
+              "RelativeToolTip": "Project\\Engine\\CDevice.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-19T09:31:00.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CDevice.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CDevice.h",
+              "RelativeDocumentMoniker": "Project\\Engine\\CDevice.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CDevice.h",
+              "RelativeToolTip": "Project\\Engine\\CDevice.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-19T09:30:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CEngine.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CEngine.cpp",
               "RelativeDocumentMoniker": "Project\\Engine\\CEngine.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CEngine.cpp*",
-              "RelativeToolTip": "Project\\Engine\\CEngine.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CEngine.cpp",
+              "RelativeToolTip": "Project\\Engine\\CEngine.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-17T10:16:49.126Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "global.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\global.h",
+              "RelativeDocumentMoniker": "Project\\Engine\\global.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\global.h",
+              "RelativeToolTip": "Project\\Engine\\global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-18T08:45:42.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\pch.h",
+              "RelativeDocumentMoniker": "Project\\Engine\\pch.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\pch.h",
+              "RelativeToolTip": "Project\\Engine\\pch.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-17T10:29:46.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\pch.cpp",
+              "RelativeDocumentMoniker": "Project\\Engine\\pch.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\pch.cpp",
+              "RelativeToolTip": "Project\\Engine\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T10:29:46.149Z"
             },
             {
               "$type": "Document",
@@ -45,23 +128,22 @@
               "RelativeDocumentMoniker": "Project\\Engine\\CEngine.h",
               "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Engine\\CEngine.h",
               "RelativeToolTip": "Project\\Engine\\CEngine.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-17T10:16:45.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Client.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Client\\Client.cpp",
               "RelativeDocumentMoniker": "Project\\Client\\Client.cpp",
               "ToolTip": "C:\\Users\\admin\\Documents\\github\\DirectX11_Udemy\\DirectX11Engine\\Project\\Client\\Client.cpp",
               "RelativeToolTip": "Project\\Client\\Client.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwGwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-16T10:09:11.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T10:09:11.476Z"
             }
           ]
         }

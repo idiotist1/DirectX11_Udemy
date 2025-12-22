@@ -2,9 +2,5 @@
   .\Project\Engine\CEngine.h
   .\Project\Engine\global.h
   3개 파일이 복사되었습니다.
-  pch.cpp
   CDevice.cpp
-  CEngine.cpp
-  Engine.cpp
-  코드를 생성하고 있습니다...
   Engine.vcxproj -> C:\Users\admin\Documents\github\DirectX11_Udemy\DirectX11Engine\External\Library\Engine\Engine_d.lib

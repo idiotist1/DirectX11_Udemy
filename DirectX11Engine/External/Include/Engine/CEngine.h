@@ -14,7 +14,6 @@ private:
 public:
 	int init(HWND _hWnd, POINT _Resolution);
 
-
 public:
 	static CEngine* GetInst()
 	{
